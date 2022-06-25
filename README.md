@@ -39,10 +39,10 @@
 
 <h1> <img align="left" width="24px" src="./src/icons/github_icons/insights.svg" alt="Stats"/> Stats </h1>
 
-<div class="container" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;" >
+<div class="container" >
     <br/>
     <br/>
-  <img align="left" width="45%" src="./src/animations/astronaut_640px.gif" style="margin-top: 5%" />
+  <img align="left" width="35%" src="./src/animations/astronaut_640px.gif" />
 
   <a href="https://github.com/AmitKumarHQ">
     <img align= "center" src="https://github-readme-stats.vercel.app/api?username=AmitKumarHQ&include_all_commits=true&count_private=true&show_icons=true&line_height=27&hide_border=true&theme=tokyonight&border_radius=10" 
