@@ -14,6 +14,8 @@
 ### Languages and Tools:
 
 <div>
+  <a href="https://www.w3schools.com/c/" target="_blank"><img class="icon" align="left" alt="C" width="32px" src="./src/icons/C.svg" />
+  <a href="https://www.rust-lang.org/" target="_blank"><img class="icon" align="left" alt="Rust" width="32px" src="./src/icons/rust.svg" />
   <a href="https://www.w3schools.com/html/" target="_blank"><img class="icon" align="left" alt="HTML5" width="32px" src="./src/icons/html.svg" />
   <a href="https://www.w3schools.com/css/" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" />
   <a href="https://www.w3schools.com/js/" target="_blank"><img class="icon" align="left" alt="Javascript" width="32px" src="./src/icons/javascript.svg" />
@@ -42,16 +44,13 @@
 <div class="container" >
     <br/>
     <br/>
-  <img align="left" width="35%" src="./src/animations/astronaut_640px.gif" />
-
   <a href="https://github.com/AmitKumarHQ">
-    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=AmitKumarHQ&include_all_commits=true&count_private=true&show_icons=true&line_height=27&hide_border=true&theme=tokyonight&border_radius=10" 
-    style="" 
-    />
-    <br/>
-    <br/>
+    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=AmitKumarHQ&include_all_commits=true&count_private=true&show_icons=true&line_height=27&hide_border=true&theme=tokyonight&border_radius=10"/>
+  </a>
+  <a>
     <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumarHQ&layout=default&hide_border=true&card_width=495&theme=tokyonight&border_radius=10" />
-  </a> 
+  </a>
+  
 </div>
 
 <!--
